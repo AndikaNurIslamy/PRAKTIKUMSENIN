@@ -29,6 +29,7 @@ public class VolumeBalok {
         // Menghitung volume balok
         double volume = panjang * lebar * tinggi;
 
+
         // Menampilkan hasil
         System.out.println("Volume balok adalah: " + volume);
 
